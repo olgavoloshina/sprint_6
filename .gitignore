@@ -1,0 +1,20 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+
+# Pytest
+.pytest_cache/
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
